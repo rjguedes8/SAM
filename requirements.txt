@@ -1,0 +1,5 @@
+ipyplot==1.1.1
+transformers==4.35.2
+numpy==1.23.5
+torch==2.1.0+cu121
+torchvision==0.16.0+cu121
